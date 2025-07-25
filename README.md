@@ -61,7 +61,8 @@ Dünyadaki gezdiğiniz şehirleri ve ülkeleri harita üzerinde kaydedip takip e
 
 ## Ekran Görüntüleri
 
-> Buraya uygulamanın ekran görüntülerini ekleyebilirsiniz.
+<img width="1875" height="820" alt="image" src="https://github.com/user-attachments/assets/7a9c3186-92d3-4137-9bb2-e832b52da3de" />
+
 
 ---
 
