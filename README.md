@@ -65,5 +65,3 @@ Dünyadaki gezdiğiniz şehirleri ve ülkeleri harita üzerinde kaydedip takip e
 
 
 ---
-
-Daha fazla bilgi için kodu inceleyebilirsiniz. Katkıda bulunmak isterseniz PR gönderebilirsiniz!
